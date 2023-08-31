@@ -1,7 +1,18 @@
-### Hi there 👋
+### Jihoon
+#### Never-Ending developer 🔥
+
+- I'm a Android Developer
+- Now I work at [fanmaum](https://fanmaum.com/) Since 2022.10 ~
+- I worked at another companys.
+  - [08Liter](https://www.08liter.com/) (2019.01 ~ 2022.08)
+  - [t-monet](https://www.t-monet.com/) (2017.11 ~ 2019.01)
+
+**My Blog**
+- https://android-developer.notion.site/Study-f9d8dbc29bdf4d0086abf26bd4691aef
+- https://android-developer.notion.site/android-developer/Android-Developer-4c94d4977a9a450684dfcd084765af5e
 
 <!--
-**wlgns524/wlgns524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
