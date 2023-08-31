@@ -9,7 +9,7 @@
   - [t-monet](https://www.t-monet.com/) (2017.11 ~ 2019.01)
 
 **My Blog**
-- https://android-developer.notion.site/Study-f9d8dbc29bdf4d0086abf26bd4691aef
+- https://medium.com/@frogzz13
 - https://android-developer.notion.site/android-developer/Android-Developer-4c94d4977a9a450684dfcd084765af5e
 
 <!--
